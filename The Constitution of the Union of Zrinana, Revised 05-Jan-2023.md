@@ -19,3 +19,7 @@ one, a citizen, to be able to work), life, shelter, food, water, and all necessi
 they be able to be provided by this union. These fundamental rights shall remain the
 case unless there is a unanimous decision to ammend this Constitution.
 
+To manage the affairs of the people, the Clerk and Judge may be elected every five
+or so years, unless their work deemed lousy by a majority of the people. The clerk must
+have the responsibility of overseeing the management of the Parliament and all
+legislative affairs, should there be any 

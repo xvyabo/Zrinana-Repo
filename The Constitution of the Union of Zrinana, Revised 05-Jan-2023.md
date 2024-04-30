@@ -1,7 +1,7 @@
 # The Constitution of the Union of Zrinana, Revised
 # 05-Jan-2023
 
-*by Victoria Ileana Peeches Costa*
+*by [REDACTED]*
 
 **Part 1**
 Within this text, "The Union of Zrinana" shall be hereafter shortened to "Zrinana"

@@ -27,8 +27,9 @@
 
 > Amendments to this Constitution, other than the fundamental rights and freedoms, shall be passed on the super-majority of at least two thirds the maximum vote according to the legislative process (Part 2) of this Constitution. 
 
-Signed By: @xvyabo
+Signed By: [@xvyabo](https://kolektiva.social/@xvyabo)
 
-Signed By: @alyatirno
-[^1]: [@xvyabo](https://kolektiva.social/@xvyabo)
-[^2]: [@alyatirno](https://twitter.com/alyatirn0)
+Signed By: [@alyatirno](https://twitter.com/alyatirn0)
+
+[^1]: [@xvyabo on kolektiva.social :blush:](https://kolektiva.social/@xvyabo)
+[^2]: [@alyatirno on twitter :sob:](https://twitter.com/alyatirn0)

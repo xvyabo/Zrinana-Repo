@@ -1,7 +1,7 @@
 # The Constitution of the Union of Zrinana, Revised
 ## 05-Jan-2023
 
-*by ```[REDACTED][^1]```*
+*by ```[REDACTED]```[^1]*
 
 ### Part 1
 Within this text, "The Union of Zrinana" shall be hereafter shortened to "Zrinana"
@@ -11,7 +11,7 @@ may in fact, within this document, be referred to as "the Constitution, Revised"
 simply "Constitution."
 
 And each citizen of Zrinana, starting with the first two citizens which shall be 
-```[REDACTED][^1]``` (the clerk) and ```[REDACTED][^2]``` (the Judge), shall be entitiled to the freedoms
+```[REDACTED]```[^1] (the clerk) and ```[REDACTED]```[^2] (the Judge), shall be entitiled to the freedoms
 of: speech, protest, conscience, religion, spirituality, thought, belief, opinion, and 
 expression; and rights to: equality, vote, direct democracy (which means the right for a
 citizen to opt in and out of such legislative and judicial processes), work (or the right for

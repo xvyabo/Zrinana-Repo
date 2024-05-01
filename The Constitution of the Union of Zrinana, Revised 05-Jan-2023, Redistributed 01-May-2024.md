@@ -23,8 +23,10 @@
 ## Part 4
 > On forms – All forms of this Union shall be made easily accessible online via the official Zrinana Website wherein dates must be formatted as such: full year, month (with leading zero), and day (with leading zero). An example of a correctly formatted date is: 2023-01-03 (the third of January, 2023). And full names must be formatted as such: Last, First Middle. An example of a formatted full name is: Doe, Jane Lisa.
 
-> On elections – Elections must be rank choice wherein the MP, juror, or other type of voter must rank the candidates in order from most liked, starting at one, up to the fifth least liked, ending at five. Candidates shall receive the total number of points as follows: each candidate shall receive five points for every first rank they received, four points for every second rank, three points for every third rank, two points for every fourth rank, and one point for every fifth rank they received. The person with the most points shall win as deemed by the Clerk or the Judge, whichever is most relevant. 
-	Amendments to this Constitution, other than the fundamental rights and freedoms, shall be passed on the super-majority of at least two thirds the maximum vote according to the legislative process (Part 2) of this Constitution. 
+> On elections – Elections must be rank choice wherein the MP, juror, or other type of voter must rank the candidates in order from most liked, starting at one, up to the fifth least liked, ending at five. Candidates shall receive the total number of points as follows: each candidate shall receive five points for every first rank they received, four points for every second rank, three points for every third rank, two points for every fourth rank, and one point for every fifth rank they received. The person with the most points shall win as deemed by the Clerk or the Judge, whichever is most relevant.
+
+> Amendments to this Constitution, other than the fundamental rights and freedoms, shall be passed on the super-majority of at least two thirds the maximum vote according to the legislative process (Part 2) of this Constitution. 
 
 Signed By: @xvyabo
+
 Signed By: @alyatirno

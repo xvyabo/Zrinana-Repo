@@ -1,14 +1,14 @@
 # The Constitution of the Union of Zrinana, Revised 05-Jan-2023
 
 *Redistributed; 01-May-2024*
-*by @xvyabo*
+*by [@xvyabo](https://kolektiva.social/@xvyabo)[^1]*
 
 ## Part 1
 > Within this text, "the Union of Zrinana" shall be hereafter shortened to "Zrinana" including the reference of this document, "the Constitution of the Union of Zrinana, Revised" being, of course, shortened to "the Constitution of Zrinana, Revised" which may in fact, within this document be referred to as "the Constitution, Revised" or, simply, "Constitution."
 
-> And each citizen of Zrinana, starting with the first two citizens which shall be @xvyabo (the Clerk) and @alyatirno (the Judge), shall be entitled to the freedoms of: speech, protest, conscience, religion, spirituality, thought, belief, opinion, and expression; and rights to: equality, vote, direct democracy (which means the right for a citizen to opt in and out of such legislative and judicial processes), work (or the right for one, a citizen, to be able to work), life, shelter, food, water, and all necessities should they be able to be provided by this Union. These fundamental rights shall remain the case unless there is a unanimous decision to amend this Constitution. 
+> And each citizen of Zrinana, starting with the first two citizens which shall be [@xvyabo](https://kolektiva.social/@xvyabo) (the Clerk) and [@alyatirno](https://twitter.com/alyatirn0)[^2] (the Judge), shall be entitled to the freedoms of: speech, protest, conscience, religion, spirituality, thought, belief, opinion, and expression; and rights to: equality, vote, direct democracy (which means the right for a citizen to opt in and out of such legislative and judicial processes), work (or the right for one, a citizen, to be able to work), life, shelter, food, water, and all necessities should they be able to be provided by this Union. These fundamental rights shall remain the case unless there is a unanimous decision to amend this Constitution. 
 
-> To manage the affairs of the people, the Clerk and Judge may be elected every five or so years, unless their work deemed lousy by a majority of the People. The Clerk must have the responsibility of overseeing the management of the Parliament and all legislative affairs, should there be any whatsoever. And the Judge shall have the responsibility of overseeing the management of the Judiciary and all judicial affairs. The first Clerk, with the unanimous consent of all the citizens of this Union, elect the author of this Constitution, @xvyabo, to serve for a regular term and the Judge, also with unanimous consent of all the citizens, of this Union, elect @alyatirno to serve as Judge for a regular term. With that being said, Zrinana shall be split between two divisions: the Legislative and Judicial. 
+> To manage the affairs of the people, the Clerk and Judge may be elected every five or so years, unless their work deemed lousy by a majority of the People. The Clerk must have the responsibility of overseeing the management of the Parliament and all legislative affairs, should there be any whatsoever. And the Judge shall have the responsibility of overseeing the management of the Judiciary and all judicial affairs. The first Clerk, with the unanimous consent of all the citizens of this Union, elect the author of this Constitution, [@xvyabo](https://kolektiva.social/@xvyabo), to serve for a regular term and the Judge, also with unanimous consent of all the citizens, of this Union, elect [@alyatirno](https://twitter.com/alyatirn0) to serve as Judge for a regular term. With that being said, Zrinana shall be split between two divisions: the Legislative and Judicial. 
 
 ## Part 2
 > Parliament shall be the title of the system in which contains any citizen who, upon request, opt into direct democracy of the legislature. Parliament shall host debates as requested by at least one MP (member of Parliament), on approval of at least a majority of the present parliament. 
@@ -30,3 +30,5 @@
 Signed By: @xvyabo
 
 Signed By: @alyatirno
+[^1]: [@xvyabo](https://kolektiva.social/@xvyabo)
+[^2]: [@alyatirno](https://twitter.com/alyatirn0)
